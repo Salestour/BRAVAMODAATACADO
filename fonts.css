@@ -5,12 +5,6 @@
    font-style: normal;
 }
 @font-face {
-   font-family: "Bebas Neue Book";
-   src: url("fonts/BebasNeueBook.woff") format("woff"), url("fonts/BebasNeueBook.eot") format("embedded-opentype"), url("fonts/BebasNeueBook.otf") format("opentype");
-   font-weight: normal;
-   font-style: normal;
-}
-@font-face {
    font-family: "Montserrat";
    src: url("fonts/Montserrat Bold.woff") format("woff"), url("fonts/Montserrat Bold.eot") format("embedded-opentype"), url("fonts/Montserrat Bold.ttf") format("truetype"), url("fonts/Montserrat Bold.svg") format("svg");
    font-weight: bold;
@@ -61,6 +55,12 @@
 @font-face {
    font-family: "Montserrat";
    src: url("fonts/Montserrat-Light.woff") format("woff"), url("fonts/Montserrat-Light.eot") format("embedded-opentype"), url("fonts/Montserrat-Light.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Bebas Neue Book";
+   src: url("fonts/BebasNeueBook.woff") format("woff"), url("fonts/BebasNeueBook.eot") format("embedded-opentype"), url("fonts/BebasNeueBook.otf") format("opentype");
    font-weight: normal;
    font-style: normal;
 }
